@@ -1,0 +1,9 @@
+git status				- 
+git add <arquivo>			- adicionar itens dentro de um pacote
+git init				- inicializar o repositório
+git clone <url projeto git>	- se tiver algum projeto no git, podemos baixar ele na nossa máquina
+git pull				- atualizar nossa branch
+git commit -m "comentario"	- nome do que tem dentro ex. "Regressivo.v1"
+git push 				- enviar o item para dentro do pacote
+git checkout <nome da branch>	- trocar de branch
+git merge				- criar uma branch e juntar com outra
